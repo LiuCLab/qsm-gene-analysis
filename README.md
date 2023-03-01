@@ -22,3 +22,9 @@ matchSamplesDG.m - Match samples between segmentations
 normalizeExpression.m - Normalize expression across genes
 
 regressionGeneDG.m - Perform regression between gene expression and QSM
+
+Other files"
+
+SampleAnnot1.xlsx - SampleAnnot6.xlsx - Lists tissue samples for Allen Human Brain Atlas (AHBA) subjects 1-6
+
+ROI_labels.xlsx - Match table, used to match AHBA tissue samples to regions in QSM segmentation
