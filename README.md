@@ -23,7 +23,7 @@ normalizeExpression.m - Normalize expression across genes
 
 regressionGeneDG.m - Perform regression between gene expression and QSM
 
-Other files"
+Other files:
 
 SampleAnnot1.xlsx - SampleAnnot6.xlsx - Lists tissue samples for Allen Human Brain Atlas (AHBA) subjects 1-6
 
